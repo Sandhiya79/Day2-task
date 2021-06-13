@@ -28,3 +28,14 @@ print(c)
 #Adding space during concatenatination
 a="30 Days"
 b="30 hours"
+c=a+" "+b
+print(c) 
+
+text=" Thirty days and Thirty hours
+x=text.casefold() 
+print(x) 
+
+capitalize() 
+find() 
+isalpha() 
+isalnum() 
